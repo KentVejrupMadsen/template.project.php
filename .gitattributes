@@ -1,0 +1,14 @@
+# default
+* text=auto
+
+# For documentation
+*.md diff=markdown eol=crlf
+
+
+
+# Base
+.gitignore text eol=lf
+.gitattributes text eol=lf
+
+/.github export-ignore
+CHANGELOG.md export-ignore
